@@ -1,27 +1,5 @@
-#==============================================================================
-#  SCRIPT.........:  aprendizdesysModule.psm1
-#  AUTHOR.........:  Francisco Palenzuela Luque
-#  EMAIL..........:  fpalenzuela@gmail.com
-#  TWITTER........:  @fpalenzuela
-#  WEB............:  https://www.aprendizdesysadmin.com
-#  VERSION........:  1.0
-#  DATE...........:  27-11-2017
-#  REQUIREMENTS...:  
-#
-#  DESCRIPTION....:  Modulo para el blog aprendizdesysadmin.com, conjunto de 
-#                    funciones para poder utilizar en nuestros scripts o consola.
-#
-#  NOTES..........:  
+# Modulo del ejemplo del post : https://aprendizdesysadmin.com/powershell_-creacion-de-modulos/
 # 
-#  CUSTOMIZE......:  
-#==============================================================================
-#  REVISED BY.....:  
-#  EMAIL..........:  
-#  REVISION DATE..:  
-#  REVISION NOTES.:
-#
-#==============================================================================
-
 
 Function InfoSoftInstalado(){
  <#
