@@ -1,7 +1,7 @@
 # Reto @seguridadyredes aka alfon
 
 
-# Obtenemos del json y lo convertimos a objeto.
+# leemo del json y lo convertimos a objeto.
 $SourceJson = Get-Content eve.json | ConvertFrom-Json
 
 # Seleccionamos los filtros que deseamos buscar en nuestro caso event_type app.proto y alert.signature
