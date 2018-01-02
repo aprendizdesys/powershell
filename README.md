@@ -8,4 +8,5 @@ Archivos del Blog
 * [Powershell >_ Comprobando si estamos en DNSBL](https://aprendizdesysadmin.com/powershell_-comprobando-si-estamos-en-dnsbl/) Carpeta dnsbl
 * [Powershell >_ Sustituyendo a curl y wget con PS](https://aprendizdesysadmin.com/powershell_-sustituyendo-a-curl-y-wget-con-ps/) Archivo Get-PublicIP.ps1
 * [Powershell >_ Creación de módulos](https://aprendizdesysadmin.com/powershell_-creacion-de-modulos/) Carpeta Modulos\creaciondemodulospost
+* [Powershell >_ Mini-Tip - Obteniendo la url completa de un enlace corto](https://github.com/aprendizdesys/powershell/) Archivo Get-LongUrl.ps1
 * [Powershell >_ Leer json de suricata con PS](https://aprendizdesysadmin.com/powershell_-leer-json-de-suricata-con-ps-challenge-accepted/) Carpeta Suricata-json
