@@ -10,7 +10,7 @@
 \Get-IpsGmail.ps1
 
 .LINK    
- Post del script: https://aprendizdesysadmin.com/powershell_-mini-tip-obteniendo-la-url-completa-de-un-enlace-corto/
+ Post del script: https://aprendizdesysadmin.com/powershell_-obteniendo-listado-de-ips-de-gmail/
 #>
 
 #Constantes y variables
